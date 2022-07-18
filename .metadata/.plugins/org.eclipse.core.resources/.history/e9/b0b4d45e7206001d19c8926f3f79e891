@@ -1,0 +1,16 @@
+import java.util.*;
+
+public class MapImplementation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Map<Integer, String> map1 = new HashMap<Integer, String>();
+		map1.put(1, "Hammad");
+		map1.put(2, "Haris");
+		map1.put(3, "Ahmed");
+		map1.put(4, "Ibrahim");
+		map1.put(5, "Ibad");
+		
+	}
+
+}
